@@ -1,0 +1,31 @@
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\appsettings.json
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\.net project.staticwebassets.runtime.json
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\.net project.exe
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\.net project.deps.json
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\.net project.runtimeconfig.json
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\.net project.dll
+C:\Users\palsu\OneDrive\Desktop\.net project\bin\Debug\net7.0\.net project.pdb
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.csproj.AssemblyReference.cache
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.AssemblyInfoInputs.cache
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.AssemblyInfo.cs
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.csproj.CoreCompileInputs.cache
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.RazorAssemblyInfo.cache
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.RazorAssemblyInfo.cs
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\staticwebassets\msbuild..net project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\staticwebassets\msbuild.build..net project.props
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting..net project.props
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive..net project.props
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\scopedcss\bundle\.net project.styles.css
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\scopedcss\projectbundle\.net project.bundle.scp.css
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.dll
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\refint\.net project.dll
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.pdb
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\.net project.genruntimeconfig.cache
+C:\Users\palsu\OneDrive\Desktop\.net project\obj\Debug\net7.0\ref\.net project.dll
